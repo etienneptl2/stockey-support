@@ -27,5 +27,5 @@ Disclaimer: Stockey is a paper trading simulation for educational purposes only.
 
 ## Policies
 
-- [Privacy Policy]({{ '/privacy/' | relative_url }})
-- [Terms & Conditions]({{ '/terms/' | relative_url }})
+- [Privacy Policy](privacy.md)
+- [Terms & Conditions](terms.md)
